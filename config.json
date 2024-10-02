@@ -1,0 +1,6 @@
+{
+  "redirect_uri": "http://localhost:3000/",
+  "client_id": "<client id>",
+  "client_secret": "<client secret>",
+  "scope": "chat:read chat:edit"
+}
